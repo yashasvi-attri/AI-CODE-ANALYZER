@@ -52,7 +52,7 @@ README.md           # Project documentation
    * Improved code
 
 ## Notes
-* AI features require a valid OpenAI API key
+* AI features require a valid OpenAI API key and available quota
 * Without an API key, the app runs in demo mode using rule-based checks
 * Large inputs are restricted to maintain performance
 
